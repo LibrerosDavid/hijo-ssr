@@ -1,3 +1,4 @@
+import './load-domino.server'
 import { NgModule } from '@angular/core';
 import { ServerModule } from '@angular/platform-server';
 
